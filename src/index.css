@@ -1,0 +1,127 @@
+/* src/index.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+input {
+  margin: 5px;
+  padding: 10px;
+  border: 2px solid #ff6f61;
+  border-radius: 5px;
+  background-color: #fff5f5;
+  color: #ff6f61;
+}
+
+button {
+  margin: 10px 0;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #ff6f61;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ff3b2f;
+}
+
+.navbar {
+  background-color: #ff6f61;
+}
+
+.navbar-brand, .nav-link {
+  color: white !important;
+}
+
+.nav-link:hover {
+  color: #ff3b2f !important;
+}
+
+p {
+  color: #ff6f61;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #fff5f5;
+  margin: 5px 0;
+  padding: 10px;
+  border: 2px solid #ff6f61;
+  border-radius: 5px;
+  color: #ff6f61;
+}
+
+.meal-container {
+  border: 2px solid #ff6f61;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #fff5f5;
+}
+
+.meal-created {
+  color: green;
+  font-weight: bold;
+}
+
+.btn-logout {
+  background-color: white;
+  color: #ff6f61;
+  border: 2px solid #ff6f61;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.btn-logout:hover {
+  background-color: #ff6f61;
+  color: white;
+}
+.card-title {
+  color: #ff6f61;
+}
+
+.card-text {
+  color: #ff6f61;
+}
+
+.btn-primary {
+  background-color: #ff6f61;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #ff3b2f;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+  border: none;
+}
+
+.btn-secondary:hover {
+  background-color: #5a6268;
+}
+
+.btn-danger {
+  background-color: #ff3b2f;
+  border: none;
+}
+
+.btn-danger:hover {
+  background-color: #ff1a0f;
+}
+
+.ml-2 {
+  margin-left: 10px;
+}
