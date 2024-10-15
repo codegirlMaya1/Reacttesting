@@ -1,1 +1,1 @@
-# Reacttesting
+# Reacttesting App calculates calories and only allows users to create  a new meal based upon a specified calorie count. Includes files for testing. Api nutrition calorie information is provided by https://calorieninjas.com/. App uses Axios, Jest, and bootstrap  and is deployed on https://670deafc8a6590d72532537c--dreamy-melomakarona-22c53d.netlify.app/
